@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finance Net - Accueil</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Finance Net</h1>
+        <p>Votre source fiable pour comprendre et maîtriser vos finances.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Bienvenue sur Finance Net</h2>
+            <p>
+                Finance Net propose des vidéos et des ressources pour vous aider à mieux comprendre l'économie, 
+                l'investissement et la gestion financière au quotidien.
+            </p>
+            <p>
+                Notre mission : rendre la finance simple, accessible et inspirante pour tous.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <a href="confidentialite.html">Politique de confidentialité</a> | 
+        <a href="conditions.html">Conditions d'utilisation</a>
+    </footer>
+</body>
+</html>
